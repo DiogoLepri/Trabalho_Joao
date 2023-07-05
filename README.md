@@ -3,6 +3,9 @@ Enunciado: Sistema de Gerenciamento de Tarefas (API)
 
 Você foi contratado para desenvolver um sistema de gerenciamento de tarefas utilizando Laravel. O sistema deve fornecer uma API para realizar operações básicas de criação, leitura, atualização e exclusão (CRUD) de tarefas.
 
+### Vídeo apresentando o projeto
+https://youtu.be/_ny3PRt1kV4
+
 # Postman - Documentação
 https://documenter.getpostman.com/view/27588199/2s93zE3LKv
 
